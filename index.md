@@ -4,5 +4,5 @@ description: Selamat datang...
 
 # index
 
-kontent
+[kontent](laravel-faker.md)
 
