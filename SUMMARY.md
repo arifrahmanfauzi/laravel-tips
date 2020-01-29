@@ -1,4 +1,4 @@
 # Summary
 
-* [Initial page](README.md)
+* [Selamat Datang di Laravel Tips](README.md)
 
