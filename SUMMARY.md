@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
-* [Selamat Datang di Laravel Tips](README.md)
+* [index](README.md)
 
