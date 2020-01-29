@@ -1,5 +1,5 @@
 ---
-description: Selamat datang
+description: Selamat datang...
 ---
 
 # index
