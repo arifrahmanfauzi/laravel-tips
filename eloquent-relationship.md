@@ -58,7 +58,7 @@ public function userposts(){
     }
 ```
 
-Pada code diatas pada variabel `$user` kita akan mencari user dengan `id`= 1, nah untuk `$post` terlihat sebuah function `post,`loh... tapi kenapa tidak ada tanda kurung  `()` itu karena `function post()`pada `User` model akan dikenali sebagai sebuah `properties` bukan sebagai _function_ lagi. Setelah itu maka akan me_return_ hasil serperti ini.
+Pada code diatas pada variabel `$user` kita akan mencari user dengan `id`= 1, nah untuk `$post` terlihat setelah `$user` terdapat variabel `post`, loh... tapi kenapa tidak ada tanda kurung  `()` itu karena `function post()`pada `User` model akan dikenali sebagai sebuah `properties` bukan sebagai _function_ lagi. Setelah itu maka akan me_return_ hasil serperti ini.
 
 ```javascript
 {
